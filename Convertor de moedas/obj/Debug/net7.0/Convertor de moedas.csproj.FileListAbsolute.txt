@@ -1,0 +1,15 @@
+C:\Users\56026708820\Desktop\Convertor de moedas\bin\Debug\net7.0\Convertor de moedas.exe
+C:\Users\56026708820\Desktop\Convertor de moedas\bin\Debug\net7.0\Convertor de moedas.deps.json
+C:\Users\56026708820\Desktop\Convertor de moedas\bin\Debug\net7.0\Convertor de moedas.runtimeconfig.json
+C:\Users\56026708820\Desktop\Convertor de moedas\bin\Debug\net7.0\Convertor de moedas.dll
+C:\Users\56026708820\Desktop\Convertor de moedas\bin\Debug\net7.0\Convertor de moedas.pdb
+C:\Users\56026708820\Desktop\Convertor de moedas\obj\Debug\net7.0\Convertor de moedas.csproj.AssemblyReference.cache
+C:\Users\56026708820\Desktop\Convertor de moedas\obj\Debug\net7.0\Convertor de moedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\56026708820\Desktop\Convertor de moedas\obj\Debug\net7.0\Convertor de moedas.AssemblyInfoInputs.cache
+C:\Users\56026708820\Desktop\Convertor de moedas\obj\Debug\net7.0\Convertor de moedas.AssemblyInfo.cs
+C:\Users\56026708820\Desktop\Convertor de moedas\obj\Debug\net7.0\Convertor de moedas.csproj.CoreCompileInputs.cache
+C:\Users\56026708820\Desktop\Convertor de moedas\obj\Debug\net7.0\Convertor de moedas.dll
+C:\Users\56026708820\Desktop\Convertor de moedas\obj\Debug\net7.0\refint\Convertor de moedas.dll
+C:\Users\56026708820\Desktop\Convertor de moedas\obj\Debug\net7.0\Convertor de moedas.pdb
+C:\Users\56026708820\Desktop\Convertor de moedas\obj\Debug\net7.0\Convertor de moedas.genruntimeconfig.cache
+C:\Users\56026708820\Desktop\Convertor de moedas\obj\Debug\net7.0\ref\Convertor de moedas.dll
